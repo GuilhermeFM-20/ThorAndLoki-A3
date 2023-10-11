@@ -54,7 +54,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 	<td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/60347462?v=4" width="100px;" alt="Guilherme Freire de Melo"/><br /><sub><b>Guilherme Freire de Melo</b></sub><br />💻
 	<td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/118139372?v=4" width="100px;" alt="Kleyber Daniel Maia Barreto Noronha"/><br /><sub><b>Kleyber Daniel Maia Barreto Noronha</b></sub><br />💻
 	<td align="center" valign="top" width="14.28%"><a><img src="https://avatars.githubusercontent.com/u/114813392?v=4" width="100px;" alt="Pedro Lucas"/><br /><sub><b>Pedro Lucas</b></sub></a><br />💻🐘
-		<td align="center" valign="top" width="14.28%"><img src="[https://avatars.githubusercontent.com/u/60347462?v=4](https://avatars.githubusercontent.com/u/118032903?v=4)" width="100px;" alt="Juan Pedro Silva Saraiva"/><br /><sub><b>Juan Pedro Silva Saraiva</b></sub><br />💻
+		<td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/118032903?v=4" width="100px;" alt="Juan Pedro Silva Saraiva"/><br /><sub><b>Juan Pedro Silva Saraiva</b></sub><br />💻
     </tr>
     </tr>
   </tbody>
