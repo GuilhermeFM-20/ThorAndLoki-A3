@@ -52,7 +52,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/60347462?v=4" width="100px;" alt="Guilherme Freire de Melo"/><br /><sub><b>Guilherme Freire de Melo</b></sub><br />💻
-	      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/118139372?v=4" width="100px;" alt="Kleyber Daniel Maia Barreto Noronha"/><br /><sub><b>Guilherme Freire de Melo</b></sub><br />💻
+	      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/118139372?v=4" width="100px;" alt="Kleyber Daniel Maia Barreto Noronha"/><br /><sub><b>Kleyber Daniel Maia Barreto Noronha</b></sub><br />💻
     </tr>
   </tbody>
 </table>
