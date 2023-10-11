@@ -51,7 +51,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/60347462?v=4" width="100px;" alt="Guilherme Freire de Melo"/><br /><sub><b>Guilherme Freire de Melo</b></sub></a><br />💻
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/60347462?v=4" width="100px;" alt="Guilherme Freire de Melo"/><br /><sub><b>Guilherme Freire de Melo</b></sub><br />💻
     </tr>
   </tbody>
 </table>
