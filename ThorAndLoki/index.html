@@ -55,7 +55,7 @@
           </div>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " id="Dashboard" onclick="changeView('pages/dashboard.html','Dashboard','Dashboard')">
+          <a class="nav-link text-white " id="Dashboard" onclick="changeView('pages/dashboard.html','Dashboard')">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">dashboard</i>
             </div>
@@ -63,7 +63,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" id="Financeiro" onclick="changeView('pages/search_view.html','Financeiro','Financeiro')">
+          <a class="nav-link text-white" id="Financeiro" onclick="changeView('pages/financeiro/view_search.html','Financeiro')">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">table_view</i>
             </div>
@@ -71,7 +71,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " id="Professores" onclick="changeView('pages/tables.html','Professores','Professores')">
+          <a class="nav-link text-white " id="Professores" onclick="changeView('pages/tables.html','Professores')">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">person</i>
             </div>
@@ -79,7 +79,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " id="Alunos" onclick="changeView('pages/tables.html','Alunos','Alunos')">
+          <a class="nav-link text-white " id="Alunos" onclick="changeView('pages/tables.html','Alunos')">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">person</i>
             </div>
@@ -87,7 +87,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " id="Visitantes" onclick="changeView('pages/tables.html','Visitantes','Visitantes')">
+          <a class="nav-link text-white " id="Visitantes" onclick="changeView('pages/tables.html','Visitantes')">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">person</i>
             </div>
@@ -95,7 +95,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " id="Funcionario" onclick="changeView('pages/tables.html','Funcionário','Funcionario')">
+          <a class="nav-link text-white " id="Funcionario" onclick="changeView('pages/tables.html','Funcionário')">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">person</i>
             </div>
@@ -103,7 +103,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " id="Relatorios" onclick="changeView('pages/tables.html','Relatórios','Relatorios')">
+          <a class="nav-link text-white " id="Relatorios" onclick="changeView('pages/tables.html','Relatórios')">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">receipt_long</i>
             </div>
@@ -349,7 +349,7 @@
 
   <script>
 
-      function changeView(link,title,select){
+      function changeView(link,title){
         document.getElementById('frame').src = link;
         document.getElementById('titile').innerHTML = title;         
       }
