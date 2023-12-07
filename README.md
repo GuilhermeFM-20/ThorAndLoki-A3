@@ -6,10 +6,8 @@ Avaliação 3 da unidade curricular - Usabilidade, desenvolvimento web, mobile e
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
-
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+	O nosso projto será um sistema de gestão para uma academia de bairro terá módulos abrangentes, incluindo cadastro detalhado de alunos, controle de pacotes e pagamentos, cadastro de professores e funcionários, gestão financeira, controle de acesso e relatórios gerenciais. Além disso, serão integradas ferramentas de comunicação interna e um registro para visitantes. Essa abordagem visa facilitar a administração da academia, proporcionando eficiência no acompanhamento de alunos, finanças e operações gerais.
 </h4>
 
 # Índice/Sumário
