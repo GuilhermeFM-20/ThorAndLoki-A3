@@ -6,10 +6,8 @@ Avaliação 3 da unidade curricular - Usabilidade, desenvolvimento web, mobile e
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
-
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+	O nosso projto será um sistema de gestão para uma academia de bairro terá módulos abrangentes, incluindo cadastro detalhado de alunos, controle de pacotes e pagamentos, cadastro de professores e funcionários, gestão financeira, controle de acesso e relatórios gerenciais. Além disso, serão integradas ferramentas de comunicação interna e um registro para visitantes. Essa abordagem visa facilitar a administração da academia, proporcionando eficiência no acompanhamento de alunos, finanças e operações gerais.
 </h4>
 
 # Índice/Sumário
@@ -18,32 +16,35 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
 * [Autores](#autores)
-* [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
+
 
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [x] RF01-Cadastro de Alunos
+- [x] RF02-Cadastro de Professores
+- [x] RF03-Cadastro de Funcionários
+- [x] RF04-Cadastro de Visitante
+- [x] RF05-Controle do Financeiro
+- [x] RF06-Relatório de Receitas do Financeiro
+- [x] RF07-Relatório de Despesas do Financeiro
+- [x] RF08-Gerar um excel das despesas/receitas 
+- [x] RF09-Menu para dar baixa nos boletos.
+- [x] RF10-Cadastro de centro de custos.
+- [x] RF11-Cadastro do plano de contas.
+- [x] RF12-Cadastro de bancos.
+
+
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [PHP](https://www.php.net)
+- [Slim Framework](https://www.slimframework.com)
+- [Javascript]
+- [CSS]
+- [HTML]
 
-# Contribuição
-
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
 
@@ -56,6 +57,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 	<td align="center" valign="top" width="14.28%"><a><img src="https://avatars.githubusercontent.com/u/114813392?v=4" width="100px;" alt="Pedro Lucas"/><br /><sub><b>Pedro Lucas</b></sub></a><br />💻🐘
 	<td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/118032903?v=4" width="100px;" alt="Juan Pedro Silva Saraiva"/><br /><sub><b>Juan Pedro Silva Saraiva</b></sub><br />💻
 	<td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/143573752?v=4" width="100px;" alt="Igor Eduardo de Oliveira Barreto"/><br /><sub><b>Igor Eduardo de Oliveira Barreto</b></sub><br />💻
+	<td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/96554235?s=48&v=4" width="100px;" alt="Edhelee filgueira carvalho"/><br /><sub><b>Edhelee filgueira carvalho</b></sub><br />💻
     </tr>
     </tr>
   </tbody>
@@ -64,7 +66,3 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 # Licença
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
-# Agradecimentos
-
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
