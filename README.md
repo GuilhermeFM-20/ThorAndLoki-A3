@@ -1,4 +1,4 @@
-# projeto-tnc-a3
+# ThorAndLoki-A3
 Avaliação 3 da unidade curricular - Usabilidade, desenvolvimento web, mobile e jogos
 
 
